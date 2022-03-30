@@ -1,0 +1,97 @@
+.divA {
+    height: 200px;
+    width: 70%;
+    background-color: rgb(112, 64, 64);
+    border-style: solid;
+    border-color: black;
+    border-width: 9px;
+    margin-left: 2%;
+
+}
+
+.divB {
+    background-color: white;
+    height: 70%;
+    width: 70%;
+    margin-left: 14%;
+    margin-top: 1.5%;
+    color: blue;
+    border-style: solid;
+    border-width: 10px;
+    border-color: rgb(4, 4, 92);
+
+}
+
+p {
+        text-align: center;
+        padding: 4%;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bolder;
+        font-size: 27px;
+
+
+
+
+}
+
+.azul {
+     background-color: blue;
+     height: 25px;
+     width: 60%;
+     margin-left: 15%;
+     margin-top: 5%;
+
+}
+
+.roxo {
+    background-color: purple;
+    height: 25px;
+    width: 40%;
+    margin-left: 25%;
+
+}
+
+.verde {
+    background-color: green;
+    height: 25px;
+    width: 50%;
+    margin-left: 20%;
+    
+}
+
+.amarelo {
+    background-color: yellow;
+    height: 25px;
+    width: 40%;
+    margin-left: 25%;
+
+
+}
+
+.vermelho {
+    background-color: red;
+    height: 25px;
+    width: 42%;
+    margin-top: 5%;
+    float: left;
+    
+}
+
+.amarelo1 {
+    background-color: rgb(102, 163, 255);
+    height: 25px;
+    width: 23%;
+    margin-top: 5%;
+    float: left;
+
+
+}
+
+.verde1 {
+    background-color: rgb(14, 177, 77);
+    height: 25px;
+    width: 30%;
+    margin-top: 5%;
+    float: left;
+
+}
